@@ -1,4 +1,3 @@
-
 DNA_drosophila = str()
 
 with open('DNA_drosophila.txt') as f:
